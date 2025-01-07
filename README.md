@@ -1,10 +1,13 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisanth123&show_icons=true&theme=radical)
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaisanth123&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm a Night 🦉** 
 
