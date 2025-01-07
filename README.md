@@ -3,11 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisanth123&show_icons=true&theme=radical)
 
+![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaisanth123&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 **I'm a Night 🦉** 
 
