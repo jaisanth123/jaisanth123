@@ -155,12 +155,12 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 
-[![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jaisanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
     <td style="text-align:center;">
- <a href="https://github.com/RashmikaRamkumar/githubstats#gh-dark-mode-only">
+ <a href="https://github.com/jaisanth123/githubstats#gh-dark-mode-only">
 <img width="500px" src="https://github.com/jaisanth123/githubstats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
    </a>
     </td>
