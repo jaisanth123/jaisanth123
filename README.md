@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Rashmika Ramkumar
+## Hi there 👋 I'm Jaisanth
 <p align="center">
-🧠 AI & ML Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
+🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 </p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px"  />
 
@@ -14,11 +14,11 @@
   
 **Connect with me :**
   &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/rashmika-ramkumar-0b9572259" >
+    <a href="https://www.linkedin.com/in/jaisanthk/" >
       <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="25px"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://kaggle.com/rashmikakr"      >
+    <a href="https://www.kaggle.com/jaisanthk"      >
       <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
     </a>
 
@@ -115,10 +115,10 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 <table>
   <tr>
     <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=RashmikaRamkumar&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=jaisanth123&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaRamkumar&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaisanth123&theme=react&hide_border=true" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
@@ -155,17 +155,17 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 
-[![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
   <tr>
     <td style="text-align:center;">
  <a href="https://github.com/RashmikaRamkumar/githubstats#gh-dark-mode-only">
-<img width="500px" src="https://github.com/RashmikaRamkumar/githubstats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
+<img width="500px" src="https://github.com/jaisanth123/githubstats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
    </a>
     </td>
     <td>
-      <img width="500px" src="https://github-contributor-stats.vercel.app/api?username=RashmikaRamkumar&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+      <img width="500px" src="https://github-contributor-stats.vercel.app/api?username=jaisanth123&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
     </td>
   </tr>
 </table>
@@ -176,8 +176,8 @@ Sunday                   70 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 Check out my **LeetCode** stats to see my progress in problem-solving!
 <p align="center">
-  <a href="https://leetcode.com/rashmi2004" target="_blank">
-    <img title="rashmi2004's LeetCode Stats" alt="rashmi2004's LeetCode Stats" src="https://leetcard.jacoblin.cool/rashmi2004?ext=heatmap" />
+  <a href="https://leetcode.com/u/user4317ns/" target="_blank">
+    <img title="Jaisanth's LeetCode Stats" alt="jaisanth's LeetCode Stats" src="https://leetcard.jacoblin.cool/user4317ns?ext=heatmap" />
   </a>
 </p>
 
