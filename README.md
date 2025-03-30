@@ -2,6 +2,19 @@
 <p align="center">
 🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 
+
+<table>
+  <tr>
+    <td style="text-align:center;">
+ <a href="https://github.com/jaisanth123/githubstats#gh-dark-mode-only">
+<img width="500px" src="https://github.com/jaisanth123/githubstats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview" />
+   </a>
+    </td>
+    <td>
+      <img width="500px" src="https://github-contributor-stats.vercel.app/api?username=jaisanth123&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+    </td>
+  </tr>
+</table>
 </p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px"  />
 
