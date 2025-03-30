@@ -5,6 +5,7 @@
 </p>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px"  />
 
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 - <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
 - <strong>🌟 🎓 MongoDB Certified Associate Developer 🎓 🌟</strong>
