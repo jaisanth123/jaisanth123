@@ -184,16 +184,6 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 
 <!--START_SECTION:Environment and Tools-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 30/03/2025 10:34:54 UTC
+ Last Updated on 30/03/2025 18:39:55 UTC
 <!--END_SECTION:Environment and Tools-->
