@@ -1,9 +1,12 @@
+
+
+
 ## Hi there 👋 I'm Jaisanth
 <p align="center">
 🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 
 </p>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="255px"  />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="225px"  />
 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -14,6 +17,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning projects**.
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
+
   
 **Connect with me :**
   &nbsp;&nbsp;
