@@ -52,9 +52,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
   <img src="https://skillicons.dev/icons?i=flask" />
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch " width="40" height="40"/>
 </a>
 
 </div>
