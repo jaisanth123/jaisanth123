@@ -10,7 +10,7 @@ jobs:
     name: Update Environment and Tools
     runs-on: ubuntu-latest
     steps:
-      - uses: RashmikaRamkumar/waka-readme-stats@master
+      - uses: jaisanth123/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
