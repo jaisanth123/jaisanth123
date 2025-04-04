@@ -129,7 +129,6 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 
 ---
 
-***Analysis***
 
 <!--START_SECTION:Productivity Metrics-->
 **I'm an Early 🐤** 
