@@ -180,10 +180,13 @@ No Activity Tracked This Week
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               13 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   84.48 % 
+JSON                     2 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+farmora                  8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.36 % 
+Attendance_Automation    5 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.12 % 
+brooklin                 2 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.52 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -199,7 +202,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 26/04/2025 18:44:27 UTC
+ Last Updated on 27/04/2025 18:45:12 UTC
 <!--END_SECTION:Code and Project Insights-->
 
 
