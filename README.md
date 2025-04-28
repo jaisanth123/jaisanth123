@@ -164,14 +164,15 @@ Sunday                   240 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.36 % 
+Cursor                   7 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 27/04/2025 18:40:48 UTC
+ Last Updated on 28/04/2025 18:44:25 UTC
 <!--END_SECTION:Environment and Tools-->
 ---
 
