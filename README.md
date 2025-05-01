@@ -5,6 +5,8 @@
 <p align="center">
 🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 
+[![Rashmika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RashmikaRamkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="225px"  />
 
