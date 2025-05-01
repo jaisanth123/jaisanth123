@@ -30,9 +30,23 @@
     </a>
 
 ---
-
 [![Jaisanth K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+### GitHub Stats:
+Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img  src="https://github-readme-stats.vercel.app/api?username=jaisanth123&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img  src="https://streak-stats.demolab.com/?user=jaisanth123&theme=dark" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <table>
   <tr>
@@ -47,22 +61,7 @@
   </tr>
 </table>
 
----
 
-### GitHub Stats:
-Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=jaisanth123&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaisanth123&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
