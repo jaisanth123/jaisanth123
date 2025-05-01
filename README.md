@@ -49,7 +49,6 @@
     </td>
   </tr>
 </table>
-sad
 ---
 ### GitHub Stats:
 Here’s a quick snapshot of my **GitHub Activity**, including my contributions, streaks, and the languages I work with the most.
