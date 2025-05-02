@@ -42,7 +42,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
       <img  src="https://github-readme-stats.vercel.app/api?username=jaisanth123&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img  src="https://streak-stats.demolab.com/?user=jaisanth123&theme=holi-theme" alt="GitHub Streak Stats" />
+      <img  src="https://streak-stats.demolab.com/?user=jaisanth123&theme=dark" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
