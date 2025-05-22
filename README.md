@@ -135,8 +135,18 @@ Check out my **LeetCode** stats to see my progress in problem-solving!
 ---
 
 <!--START_SECTION:Environment and Tools-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/05/2025 18:45:37 UTC
+```text
+🔥 Editors: 
+Cursor                   1 hr 3 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 3 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+
+ Last Updated on 22/05/2025 18:45:26 UTC
 <!--END_SECTION:Environment and Tools-->
 ---
 
