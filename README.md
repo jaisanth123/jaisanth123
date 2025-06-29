@@ -71,7 +71,7 @@ Here’s a quick snapshot of my **GitHub Activity**, including my contributions,
 Check out my **LeetCode** stats to see my progress in problem-solving!
 <p align="center">
   <a href="https://leetcode.com/u/user4317ns/" target="_blank">
-    <img title="Jaisanth's LeetCode Stats" alt="jaisanth's LeetCode Stats" src="https://leetcard.jacoblin.cool/user4317ns?ext=heatmap" />
+    <img title="Jaisanth's LeetCode Stats" alt="jaisanth's LeetCode Stats" src="https://leetcard.jacoblin.cool/Jaisanth_k?ext=heatmap" />
   </a>
 </p>
 
