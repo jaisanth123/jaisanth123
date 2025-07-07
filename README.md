@@ -1,7 +1,5 @@
+## Hi there 👋 I'm [__**Jaisanth**__](https://portfolio-rh5r.onrender.com/) [🔗](https://portfolio-rh5r.onrender.com/)
 
-
-
-## Hi there 👋 I'm Jaisanth
 <p align="center">
 🧠 AI & DS Student | Learning, Experimenting, and Innovating to Shape the Future of Technology 🧠
 
@@ -18,16 +16,24 @@
 - 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
 - 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
 
-  
+
+
 **Connect with me :**
-  &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jaisanthk/" >
-      <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="25px"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.kaggle.com/jaisanthk"      >
-      <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
-    </a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaisanthk/" >
+  <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="25px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.kaggle.com/jaisanthk" >
+  <img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="25px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-rh5r.onrender.com/" >
+  <img alt="portfolio" src="https://img.icons8.com/ios-filled/50/808080/internet--v1.png" height="25px"/>
+</a>
+
+  
+
 
 ---
 [![Jaisanth K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisanth123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
