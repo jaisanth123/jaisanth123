@@ -162,18 +162,8 @@ Sunday                   464 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 ---
 
 <!--START_SECTION:Environment and Tools-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-Cursor                   1 hr 6 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 6 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-
- Last Updated on 31/10/2025 18:46:20 UTC
+ Last Updated on 01/11/2025 18:40:45 UTC
 <!--END_SECTION:Environment and Tools-->
 ---
 
