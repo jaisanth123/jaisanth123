@@ -8,13 +8,24 @@
 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-- <strong>🌟 🎓 Microsoft Certified AI Engineer Associate 🎓 🌟</strong>
-- <strong>🌟 🎓 MongoDB Certified Associate Developer 🎓 </strong>
-- 🔭 I'm currently working on a **Deep Learning project** focused on **Ted Recommendation**.
-- 🌱 Currently diving deep into **Data Structures and Algorithms** and exploring **Cloud Computing**.
-- 👯 I’m looking to collaborate on **Machine Learning projects**.
-- 💻 I actively work with platforms like **Netlify**, **Vercel**, and **Render** for deploying my projects.
-- 💬 Ask me about **AI**, **Machine Learning**, and **Cloud Computing**.
+## ✨ Achievements
+
+🥇 **Techno-Cultural Fest Winner**(CSE Cluster).
+🥇 **2× Hackathon Winner**  
+🥈 **2× Hackathon Runner-up**  
+🎖️ **5× Project Presentation Winner**  
+
+## ✨ Certifications
+
+✨ **MongoDB Associate Developer**  
+✨ **Azure AI Engineer**  
+
+## ✨ Leadership
+
+🎖️ **Treasurer – AICC**  
+🎖️ **Executive – IEF**  
+🎖️ **Secretary – Freelancers Club**  
+
 
 
 
