@@ -9,7 +9,7 @@
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## ✨ Achievements
-
+🥇 **Best Student in Co-Curricular Activities KEC - 2026 **
 🥇 **Techno-Cultural Fest Winner**(CSE Cluster).
 🥇 **2× Hackathon Winner**  
 🥈 **2× Hackathon Runner-up**  
